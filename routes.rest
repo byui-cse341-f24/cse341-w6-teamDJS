@@ -4,7 +4,7 @@ GET http://localhost:8080/contacts
 
 
 ### Get contact by id
-GET http://localhost:8080/contacts/622023f642f9ab4cd6e060b3
+GET http://localhost:8080/contacts/671808035a86cf80cde0d6c3
 
 
 ### Create contact
@@ -16,7 +16,8 @@ content-type: application/json
     "lastName":"Weaver",
     "email":"aWeaver@test.com",
     "favoriteColor":"Brown",
-    "birthday":"06/19/2000"
+    "birthday":"06/19/2000",
+    "friend": "Bob"
 }
 
 
