@@ -11,3 +11,6 @@ This code came from the lesson 4 prove solution. There may be slight modificatio
 ## Class Activity Purpose
 
 The purpose of this activity is to get practice adding error handling and data validation to our node applications.
+
+
+Sergio testing
